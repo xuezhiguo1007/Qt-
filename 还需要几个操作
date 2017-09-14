@@ -1,0 +1,3 @@
+需要引用widget。h这个头文件和源文件
+在main.cpp中加上calculator.h这个头文件。创建计算器类下的cal，再用cal.show()
+就可以运行出来一个完整的计算器程序
